@@ -1,5 +1,5 @@
-kernel,runtime_ms,throughput_gbps,compute_percent
-baseline,628.062,0.02,17.20
-tiled,86.470,0.14,13.06
-shared_mem,87.505,0.14,34.21
-tiled_shared,88.610,0.14,29.05
+kernel,runtime_ms,throughput_gbps
+baseline,701.808,0.02
+tiled,101.137,0.12
+shared_mem,99.968,0.12
+tiled_shared,85.694,0.14
