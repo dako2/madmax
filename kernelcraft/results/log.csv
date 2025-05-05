@@ -1,0 +1,5 @@
+kernel,runtime_ms,throughput_gbps
+baseline,628.062,0.02
+tiled,86.470,0.14
+shared_mem,87.505,0.14
+tiled_shared,88.610,0.14

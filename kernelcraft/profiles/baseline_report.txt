@@ -1,0 +1,4 @@
+Baseline profiling report
+========================
+
+TODO: Add profiling results for the baseline kernel.
