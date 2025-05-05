@@ -1,7 +1,7 @@
 # madmax
 build a pipeline with profiling and tooling to demonstrate gpu optimization workflow
 
-
+![Roofline Chart](assets/roofline_chart.png)
 
 
 Running kernel: baseline
